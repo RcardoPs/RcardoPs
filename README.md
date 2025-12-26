@@ -3,15 +3,6 @@
 - 🧑‍🎓 Sou aluno da PUC Minas no Curso de Analíse e Desenvolvimento de Sistemas
 - 🔭 Hoje me identifico mais com front-end
 - 🌱 Estou estundando um pouco mais sobre Back end
-
-
-## Github status ✨
-
-<div align="center">
-  <a href="https://github.com/RcardoPs">
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=RcardoPs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RcardoPs&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
     
 ## Linguagens e ferramentas
 <div style="display: inline_block"><br>
