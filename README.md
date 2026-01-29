@@ -1,8 +1,8 @@
 ### Eai! Eu sou o Ricardo Peixoto
 
 - 🧑‍🎓 Sou aluno da PUC Minas no Curso de Analíse e Desenvolvimento de Sistemas
-- 🔭 Hoje me identifico mais com front-end
-- 🌱 Estou estundando um pouco mais sobre Back end
+- 🔭 Hoje me identifico mais com front-end, UI e UX Design
+- 🌱 Estou estundando um pouco mais sobre Figma
     
 ## Linguagens e ferramentas
 <div style="display: inline_block"><br>
